@@ -17,7 +17,7 @@ int PinRedLed = 13;
 int PinGreenLed = 10;
 int PinWhiteLed = 9;
 
-
+// Макросы которые в коде будут заменены на номера записи команд
 #define WhiteLed (0)
 #define BlueLed (1) 
 #define GreenLed (2) 
